@@ -9,3 +9,4 @@ ghcr.io/bytebot-ai/bytebot-desktop:edge
 postgres:16-alpine
 ghcr.io/bytebot-ai/bytebot-ui:edge
 node:20-alpine
+dhi.io/kafka:4-debian13-native
