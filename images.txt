@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 # dhi.io/kafka:4-debian13-native
 # mongo:7.0.31
-dhi.io/kafka:4
+# dhi.io/kafka:4
+dhi.io/apisix:3
