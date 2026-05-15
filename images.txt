@@ -7,4 +7,5 @@
 # dhi.io/kafka:4-debian13-native
 # mongo:7.0.31
 # dhi.io/kafka:4
-dhi.io/apisix:3
+# dhi.io/apisix:3
+docker pull smanx/nanobot:0.1.5.post3
