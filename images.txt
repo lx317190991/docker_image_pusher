@@ -9,4 +9,5 @@
 # dhi.io/kafka:4
 # dhi.io/apisix:3
 # smanx/nanobot:0.1.5.post3
---platform=linux/amd64 nginx:1.31.1-alpine-perl
+# --platform=linux/amd64 nginx:1.31.1-alpine-perl
+--platform=linux/arm64 nginx:1.31.1-alpine-perl
