@@ -13,4 +13,5 @@
 # --platform=linux/arm64 nginx:1.31.1-alpine-perl
 # --platform=linux/amd64 dhi.io/apisix:3
 # --platform=linux/arm64 dhi.io/apisix:3
---platform=linux/amd64 clickhouse:26.5.1.882
+# --platform=linux/amd64 clickhouse:26.5.1.882
+--platform=linux/arm64 clickhouse:26.5.1.882
