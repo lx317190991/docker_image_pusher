@@ -17,5 +17,6 @@
 # --platform=linux/arm64 clickhouse:26.5.1.882
 # --platform=linux/amd64 apache/apisix:3.16.0-debian
 # --platform=linux/amd64 redis:7.4.9-alpine
---platform=linux/arm64 redis:7.4.9-alpine
+# --platform=linux/arm64 redis:7.4.9-alpine
+--platform=linux/amd64 dhi.io/apisix:3
 
